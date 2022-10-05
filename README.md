@@ -240,7 +240,6 @@ Once you've [built](#building--testing) this project, you can experiment with
 every pass separately. All passes, except for
 [**HelloWorld**](#helloworld-your-first-pass), are described in more details
 below.
-
 LLVM passes work with LLVM IR files. You can generate one like this:
 
 ```bash
